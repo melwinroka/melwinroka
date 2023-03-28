@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @melwinroka
 - 👀 I’m interested in Programming, Data, Technology
-- 🌱 I’m currently learning C#, Python
+- 🌱 I’m currently learning Angular, Java
 
-I am currently a trainee programmer. And try to improve my coding and techknowladge.
+I have completed an apprenticeship as an IT specialist and am currently studying my second degree in technical computer science.
 
