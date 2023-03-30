@@ -2,5 +2,5 @@
 - 👀 I’m interested in Programming, Data, Technology
 - 🌱 I’m currently learning Angular, Java
 
-I have completed an apprenticeship as an IT specialist and am currently studying my second degree in technical computer science.
+I have completed an apprenticeship as an IT specialist and am currently studying my second semester in technical computer science.
 
